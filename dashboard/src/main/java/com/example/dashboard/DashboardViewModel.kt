@@ -1,4 +1,4 @@
-package com.github.rmitsubayashi.multimoduledemo.ui.dashboard
+package com.example.dashboard
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

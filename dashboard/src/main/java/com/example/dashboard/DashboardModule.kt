@@ -1,6 +1,5 @@
-package com.github.rmitsubayashi.multimoduledemo.di
+package com.example.dashboard
 
-import com.github.rmitsubayashi.multimoduledemo.ui.dashboard.DashboardViewModel
 import org.koin.android.viewmodel.dsl.viewModel
 import org.koin.dsl.module
 
