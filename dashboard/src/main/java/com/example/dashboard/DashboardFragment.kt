@@ -1,4 +1,4 @@
-package com.github.rmitsubayashi.multimoduledemo.ui.dashboard
+package com.example.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,6 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
-import com.github.rmitsubayashi.multimoduledemo.R
 import org.koin.android.viewmodel.ext.android.viewModel
 
 class DashboardFragment : Fragment() {

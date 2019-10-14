@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':dashboard', ':notification', ':notificationrepo'
 rootProject.name='MultiModuleDemo'
